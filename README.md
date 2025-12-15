@@ -47,6 +47,13 @@ Choose one of the following methods to get the repository files:
 
 Once you are inside the `window-manager` folder (or the extracted folder):
 
+0. open the folder "Window size"
+
+```bash
+cd "Window size"
+```
+Or click on the folder "Window size" to enter the directory
+
 1.  **Double-click** the `InstallStartup.cmd` file.
 
 The installer will perform the following actions:
