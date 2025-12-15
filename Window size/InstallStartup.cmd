@@ -14,7 +14,8 @@ echo -----%SCRIPT_NAME% is installing-----
 echo.
 echo script installed in %STARTUP_FOLDER%\%SCRIPT_NAME%
 echo.
-echo job done! press any key to exit...
+echo press any key to exit... (restart the system manually to take effect)
 pause >nul
+
 
 :EXIT_PROMPT
