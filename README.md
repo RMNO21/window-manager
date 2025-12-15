@@ -49,9 +49,9 @@ Once you are inside the `window-manager` folder (or the extracted folder):
 
 0. open the folder "Window size"
 
-  ```bash
-  cd "Window size"
-  ```
+   ```bash
+   cd "Window size"
+   ```
 Or click on the folder "Window size" to enter the directory
 
 1.  **Double-click** the `InstallStartup.cmd` file.
